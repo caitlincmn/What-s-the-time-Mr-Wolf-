@@ -1,0 +1,79 @@
+! version = 2.0
+
++ (start|hey|hello|hi)
+- Welcome to Saturday detention! My name is Pascaline. I am the oldest calculator the school owns! The things I have seen and heard… I just know you’d be shocked if we had the time – but we don’t. Before we start, I think it’s better we get on a first name basis. So, if you wouldn’t mind – state your name!
+
++ *
+- <set name=<formal>> Right <get name>. Fortunately for you, you do get to leave! Unfortunately, it’s on one condition. You see - that stern yet innocent looking headmaster of yours? He has a little secret and only I know about it! Well, I’m the only one left alive to tell his secret... He's a werewolf! Ironic isn't it, Mr Wolf is a wolf! I will help you escape though, but it's mainly going to be down to you. I can only help you if you help me answer a few maths questions. Get them right and I'll get you out of here alive! Deal?
+
++ deal
+- Great. Now, we’re in the maths room but the door is locked. To unlock the door, you need to answer your first maths question. What is the lowest common multiple of ‘6’ and ‘8’? Is it 20, 22, 24 or 28?
+
++ (20|22|28)
+- Wrong answer. Come on <get name> - that was the first question! He knows you’re trying to escape now. You were rattling the lock too loudly! He’s getting closer and closer with every second you’re stalling. Quick! Either ‘barricade the door’ or try and escape through the ‘window’?
+
++ 24
+- Yes! It was right, and the door opened! We’re now in the corridor, but the sound of the door closing has alerted Mr Wolf. Howling is coming from the distance; you need to hide somewhere quick! There are only two places close enough. Hide in either the ‘sports hall’ or the ‘lunch hall’?
+
++ barricade the door
+- The door is barricaded, and he is now outside. His strength is unmatchable and breaks down the door! In one pounce he has you, gripped in his claws. He opens his jaw wide - and in one gulp, there is no trace left of you. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ window
+- The window won't budge. I can help with that, but the only way to open it is to answer this question correctly. James bought a shirt in the sale which was discounted by twenty percent. He paid £40. What was the original price of the shirt? £'50', £'60'or £'70'.
+
++ 50
+- Woo! It’s open! You get into the playground and notice Mr Wolf hasn’t followed. Something is wrong. No time to panic, just hide! Where will you hide <get name>, either the ‘sports hall’ or the ‘lunch hall’?
+
++ (60|70)
+- You’re not very good with your homework, are you? That was the wrong answer - again. The door creaks open behind you, and heavy claws scraping the floor approach you. Before you can even turn around, he pounces on you - and eats you whole with one bite. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ sports hall
+- You know those days where things just don’t go your way? This is one of those days for you <get name>, I think. You quickly realise that Mr Wolf’s lair is in fact, the sports hall. Before you even have time to whimper, he appears out of nowhere. Drool dripping from his mouth, gums exposed and teeth glaring - he opens his jaw wide - and in one gulp, there is no trace left of you. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ lunch hall
+- It’s desolated inside, and it’s slightly uncomfortable. When I said I would help, this is one of those times. As I said before, I am the oldest calculator this school owns. I’ve seen it all. I also know this place like the back of my hand - if I had one. If I remember correctly, then there should be a tunnel that leads from the kitchen, and you should be able to safely escape! There is a code to the kitchen door and if you help me solve this equation, I may be able to figure it out. If 8(m-5) =48 then what is m? Does m equal to either ’10’, ’11’, or ’12’? 
+
++ (10|12)
+- No! Wrong! Quick hide, can’t you hear him coming? I can’t tell if he is close or not! You don’t have much time… hide either under the table or, if you want to risk the time, you could climb on the table and hide in a vent above the kitchen door - except I don’t know where it leads… so, where you hiding? ‘Under the table’ or ‘in the vent’?
+
++ 11
+- You’re in the kitchen. Quite a clever one, aren’t you? I don’t know where Mr Wolf is, it’s silent. Should we plant to ‘distract the wolf’ or ‘find the tunnel’?
+
++ distract the wolf
+- The pots and pans have a great reflection. If we angle them correctly with the light from the window, it should temporarily blind the wolf! Which of the following angles is an acute angle? ’75’, ’95’, ‘100’, or ’105’?
+
++ 75
+- Wow! You must be a genius. The light is refracting just how we need it to. You begin screaming to attract Mr Wolf. Without doubt, he bursts through the locked door. The light hits him directly in the eyes and he falls and runs away whimpering. Quick though, this will hopefully only give us a little extra time, the tunnel, it’s in a little trap door under the sink. You pull the trap door slowly and as promised - a tunnel. I knew it was there somewhere! It’s cold inside and very dark. You walk until the tunnel splits into two directions. You can either risk your chances and choose to go either ‘Left’ or ‘Right’ or choose to 'answer another question'. Then I will direct you the right way - if you answer correctly.
+
++ (95|100|105)
+- Uh-oh! I don’t think that was the correct answer <get name>. Whilst trying to angle a pan correctly, you fall. All of the other pots and pans come crashing down with you - creating the loudest crash! The wolf breathes in and blows down the door! He doesn’t give you time to even process what is going on, before eating you whole! GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ find the tunnel
+- You creep around the room looking for an obvious trap door when something catches your eye underneath the sink. You pull it slowly and as promised - a tunnel. I knew it was there somewhere! It’s cold inside and very dark. You walk until the tunnel splits into two directions. You can either risk your chances and choose to go either ‘Left’ or ‘Right’ or choose to 'answer another question'. Then I will direct you the right way - if you answer correctly.
+
++ answer another question
+-Jamil makes a drink by mixing 1 part of orange squash with 9 parts of water. He uses 750 millilitres of orange squash. Jamil is going to put the drink he has mixed into 1 litre bottles. What is the maximum amount of 1 litre bottles that Jamil can completely fill? Is the answer '7' or '8'?
+
++ 8
+- If your answer is 8 then we're going left! Although, it is pretty dark. You proceed anyway, slowly creeping down the narrowing tunnel. It gets darker and colder until you see nothing at all. The ceiling gets lower and lower until you’re in a small crawl space. The ground beneath your knees crumbles, causing you to fall into a hole. You can’t see anything, and no one can hear you scream. You’re stuck. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ left
+- You’ve chosen to go left! How risky. How exciting!  Although, it is pretty dark. You proceed anyway, slowly creeping down the narrowing tunnel. It gets darker and colder until you see nothing at all. The ceiling gets lower and lower until you’re in a small crawl space. The ground beneath your knees crumbles, causing you to fall into a hole. You can’t see anything, and no one can hear you scream. You’re stuck. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ right
+- You’ve chosen to go right! How risky. How exciting! Although, it is pretty dark. You proceed anyway, slowly creeping down the narrowing tunnel. Your hope starts vanishing. Was this the right choice? Too late now! However, your hope comes back when you hit another split in the tunnel. One path looks completely dark, but you can hear cars on the streets! The other path is completely silent but you can see light in the distance. Do you choose to either 'follow the light' or 'follow the sound'?
+
++ 7
+- If you calculated correctly, we should go right. Although, it is pretty dark. You proceed anyway, slowly creeping down the narrowing tunnel. Your hope starts vanishing. Was this the right choice? Too late now! However, your hope comes back when you hit another split in the tunnel. One path looks completely dark, but you can hear cars on the streets! The other path is completely silent but you can see light in the distance. Do you choose to either 'follow the light' or 'follow the sound'?
+
++ follow the light
+- Hopeful! You run down the tunnel, towards the light, as fast as your legs will carry you, when you come to an iron latter. You climb up the ladder which exits from a grate on a side road. CONGRATULATIONS! You've escaped! I must say though <get name>, I have enjoyed our time together - if you would like to play again and try and find the different endings, please type 'start' to restart.
+
++ follow the sound
+- I'm guessing you're a music lover then, <get name>? The further down the tunnel you walk the louder the echoes of the busy outside street rumble your eardrums. You turn the final corner when you start to hear Mr Wolf's human laugh. You faintly see his shadow morph into a werewolf, and he comes charging at you whilst proceeding to laugh. It was a recording! He snarled with a smug look on his face. He licked his lips and within moments, he has eaten you whole. GAME OVER. Please type 'start' to restart and try again. Can you escape the school?
+
++ under the table
+- A howl echoes as you clench your knees. He breathes in, and in one blow the lunch hall door blows from its hinges. His hairy deformed feet, mutated into claws, scratching on the floor as he slowly creeps towards the table you are hidden under. The table flies from the floor as his paw hits it. You try to move but you’re frozen. He towers over you, and before you can turn around and even catch a glimpse of his eyes - he swallows you whole. GAME OVER.  Please type 'start' to restart and try again. Can you escape the school?
+
++ in the vent
+- The vent smells strange. You slowly crawl forward, trying to not make any noise - when the floor beneath you falls. You’ve landed directly into the kitchen. He may have heard your fall! I don’t know where Mr Wolf is, it’s silent. Should we plan to ‘distract the wolf’ or ‘find the tunnel’?

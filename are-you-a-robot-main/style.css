@@ -1,0 +1,125 @@
+
+* {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12pt;
+}
+
+body {
+  background-image: url('brickbackground.gif');
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 75%;
+}
+
+.title {
+  height: 5vh;
+  align-content: center;
+  margin-left: 5;
+}
+
+.title h1 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 25pt;
+  color: rgb(216, 1, 1);
+  text-shadow: 3px 2px 0px rgb(0, 0, 0);
+ } 
+
+.wrapper {background-image: url('calc.gif');
+  background-size: cover;
+  position: fixed;
+  min-width: 80vw;
+  min-height: 80vh;
+  }
+
+  .chat {
+  object-fit: contain;
+  overflow: scroll;
+  height: 568px;
+  width: 682px;
+  margin-left: 48px;
+  margin-top: 220px;
+  display: block;
+  flex-direction: column;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+.messages {
+  flex: 1 0 auto;
+}
+
+.messages div {
+  display: block;
+  padding: 100em;
+  margin: 0px;
+  padding: 10px;
+  border-radius: 7px;
+  white-space: pre-line;
+}
+
+.messages div a {
+  color: rgb(0, 0, 0);
+}
+
+.messages div a:hover {
+  color: rgb(0, 0, 0);
+}
+
+.messages .bot {
+  text-align: left;
+  background: rgb(231, 240, 230);
+  border: 2px solid rgb(123, 130, 123);
+  color: rgb(0, 0, 0);
+  line-height: 1;
+}
+
+.messages .self {
+  text-align: right;
+  margin-left: auto;
+  background: white;
+  border: 0.5px solid black;
+  color: black;
+  line-height: 1;
+}
+
+.actions {
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+  bottom: -2px;
+}
+
+.actions input {
+  height: 35px;
+  display: block;
+  width: 100%;
+  background: #eeeeee;
+  outline: 0;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  border-left: 0px;
+}
+
+input:focus {
+  border-bottom: 2px solid rgb(193, 27, 27);
+}
+
+@media all and (min-width: 720px) {
+  .wrapper {
+    width: 80vw;
+    height: 80vh;
+  }
+}
+
+@media all and (min-width: 1280px) {
+  .wrapper {
+    width: 27.5vw;
+  }
+  .title {
+    height: 7.5vh;
+  }
+}
